@@ -1,7 +1,7 @@
 
 #  A-32 FINAL: Flask + Django Web Apps with Docker Compose
 
-This project is a part of the AIM Lab assignment for A-32. It demonstrates how to build and run two different web applications — one with **Flask** and the other with **Django** — and manage them together using **Docker Compose**.
+ It demonstrates how to build and run two different web applications — one with **Flask** and the other with **Django** — and manage them together using **Docker Compose**.
 
 ---
 
